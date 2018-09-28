@@ -13,6 +13,6 @@ def get_the_values(groceries)
   item_details_hash.each do |new category, item|
     end
     end
- 
+ item.flatten
 end
     
