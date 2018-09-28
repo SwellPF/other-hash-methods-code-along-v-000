@@ -10,7 +10,7 @@ require 'pry'
 
 def get_the_values(groceries)
   groceries.each do |category, item_details_hash|
-  item_details_hash.each do |new category,item|
+  item_details_hash.each do |new category, item|
     end
     end
  
